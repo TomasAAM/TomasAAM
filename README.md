@@ -15,34 +15,34 @@
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/tomasaguirremargery)
 
-</br>
-
-## Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [How to improve the DDDness of your application.](https://itnext.io/how-to-improve-the-dddness-of-your-application-3db2e0536ad7?source=rss-35f0ba80b9cd------2)
-- [How does AddJwtBearer get my public key?](https://visualbean.medium.com/how-does-addjwtbearer-get-my-public-key-74513c3e77df?source=rss-35f0ba80b9cd------2)
-- [How to copy to clipboard with VueJS](https://visualbean.medium.com/how-to-copy-to-clipboard-with-vuejs-a1b7ffb1170e?source=rss-35f0ba80b9cd------2)
-- [Debouncing async Tasks](https://visualbean.medium.com/debouncing-async-tasks-74a588621339?source=rss-35f0ba80b9cd------2)
-- [Optimizing Nodejs Docker build times — Layering explained.](https://visualbean.medium.com/optimizing-nodejs-docker-build-times-layering-explained-185d60a56e99?source=rss-35f0ba80b9cd------2)
-<!-- BLOG-POST-LIST:END -->
 
 </br>
 
 ## Connect with me  
 <div align="left">
-<a href="https://medium.com/@visualbean" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/tomasam123/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
 </a>
-<a href="https://codepen.com/visualbean" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/1841212" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/alexcarlsen" target="_blank">
+<a href="hhttps://www.linkedin.com/in/tomas-aguirre-margery/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
 
-## Other
-[![trophy](https://github-profile-trophy.vercel.app/?username=visualbean&no-bg=true&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+## Tech Stack 🛠️
+
+Programming Languages
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+
+Data Science and Machine Learning Frameworks
+
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white])
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white])
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white])
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white])
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white])
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+
+
