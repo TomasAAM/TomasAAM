@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Tomás</h1>
-<h3 align="center">I am a Industrial Engineering and Data Science master student at Univeridad of Chile</h3>
+<h1 align="center">Hi 👋, I'm Tomás - </h1>
+<h3 align="center">Industrial Engineering and Data Science - Univeridad of Chile</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 📝 My main interests are Machine Learning and Deep Learning.
+- 📝 My main interests are Machine Learning, Deep Learning, Data Analysis.
 - 💬 Hobbies: Boxing🥊, Video Games🎮, Cooking🥦, Learning new things🤓.
 - 📫 How to reach me: **Find me on [<img alt="Tomás | LinkedIn" height="15px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/tomas-aguirre-margery/)**
-- ⚡ Fun fact: **I discovered there is a worm living in my plant🪴 inside my room.**
+- ⚡ Fun fact: ** I discovered a worm living in my plant inside my room🪴.**
 
 </br>
 
