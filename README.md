@@ -8,9 +8,6 @@
 - 📫 How to reach me: **Find me on [<img alt="Tomás | LinkedIn" height="15px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/tomas-aguirre-margery/)**
 - ⚡ Fun fact: **I'm watching Clifford the big red dog as I write this presentation**
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
 </br>
 
 ## Connect with me  
